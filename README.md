@@ -7,6 +7,8 @@ Welcome to **Builders-Lab**! This repository is a structured, local engineering 
 
 Each project contains a realistic problem scenario, complete specification, starter solution skeleton (`solution.py`), unit test suite (`tests/test_solution.py`), and evaluation guide.
 
+> 📖 **New to these concepts?** Read the **[Complete Topics & Training Guide](./TOPICS_GUIDE.md)** to learn the theoretical foundations, implementation patterns, and code micro-tutorials before building your solutions!
+
 ---
 
 ## 🛠️ Repository Structure Overview
